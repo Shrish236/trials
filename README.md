@@ -1,6 +1,6 @@
 # GDBYantra - An automation tool for ASIC testing
 
-GDBYantra is an automation tool to run tests on ASIC through python. The main script compiles all tests, executes them, collects the results, and sends an email with the results in an Excel file. The script also has the capability to send the results to Splunk for further analysis.
+GDBYantra is an automation tool to run tests on ASIC through python. The main script compiles all tests, executes them, collects the results, and sends an email with the results in an Excel file. The script also sends the results to Splunk for further analysis through visual dashboards.
 
 ## Prerequisites
 
